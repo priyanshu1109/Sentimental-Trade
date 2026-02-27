@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+praw
+yfinance
+vaderSentiment
+pandas
+pandas-ta
+python-dotenv
+pydantic-settings
+requests
+httpx
